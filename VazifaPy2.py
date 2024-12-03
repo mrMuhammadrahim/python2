@@ -1,0 +1,1 @@
+print(f"Sizning tug'ilgan yilingiz {2024 - int(input("Yoshingizni kiriting: "))} - yil")
